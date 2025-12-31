@@ -1,2 +1,6 @@
 # current-965
+
 Same goal speech else magazine.
+
+## About
+Auto generated starter repo.
